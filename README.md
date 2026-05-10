@@ -1,34 +1,49 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi, I'm Mohd Yousuf Khan 👋</h1>
 
-Hey there, fellow coders and curious minds! 👋
+<p align="center">
+  <b>Software Developer · Backend & Cloud · Problem Solver</b><br/>
+  <i>Building reliable systems and solving hard problems, one line at a time.</i>
+</p>
 
-I'm Mohd Yousuf Khan, a passionate software developer on a journey to turn ideas into reality through lines of code. Welcome to my GitHub playground where I tinker, explore, and build things that excite me.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohd-yousuf-khan-154379229/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/khanyousuf6367/">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/khanyousuf6367">Codeforces</a>
+</p>
+
+---
 
 ## About Me
 
-- 🚀 Software Engineer with a love for clean, efficient code and problem-solving.
-- 🌱 Currently exploring Web Technologies.
-- 💡 I believe in the power of collaboration and open-source contribution.
-- 💪 Compititive Programming
-- 🎓 Btech in computer engineering.
+I'm a software developer with a strong foundation in backend engineering, cloud infrastructure, and data systems. I enjoy working across the stack — from designing APIs and data pipelines to building clean, functional frontends.
+
+Outside of work, I stay sharp through competitive programming and algorithmic problem-solving.
+
+- 🏆 Solved **1000+ problems** on LeetCode
+- ⚡ **Specialist** on Codeforces
+- 📍 Based in Lucknow, India
+
+---
 
 ## Tech Stack
 
-- 💻 Proficient in C++, Python, Javascript.
-- 🛠️ Experienced with reactJs, expressjs, nodejs.
-- 🌐 Interested in Web Development, Data Science.
+**Languages**
+`Python` `C++` `JavaScript` `SQL` `Java` `C`
 
-## Projects
+**Frameworks & Libraries**
+`React` `Flask` `Node.js` `Express.js` `Pandas` `NumPy` `Dash`
 
-Here are some of the projects I've worked on:
+**Cloud & DevOps**
+`AWS Lambda` `AWS SageMaker` `AWS RDS` `AWS S3` `AWS CDK` `Docker` `Git`
 
-- [Inotebook](https://github.com/M-Yousuf123/inotebook) - A full stack app can be use to create and store notes.
-- [Newsapp](https://github.com/M-Yousuf123/newsapp-react) - Newsapp will provide you latest news.
+**Databases**
+`MySQL` `MongoDB` `DynamoDB`
 
-Feel free to explore my repositories for more cool stuff!
+---
 
 ## Let's Connect
 
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mohd-yousuf-khan-154379229/)
+I'm always open to discussing interesting problems, collaborations, or new opportunities.
 
-Happy coding! 🚀👨‍💻
+📧 khanyousuf5181@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mohd-yousuf-khan-154379229/)
