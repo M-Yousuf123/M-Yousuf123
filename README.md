@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohd-yousuf-khan-154379229/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/khanyousuf6367/">LeetCode</a> ·
+  <a href="https://www.linkedin.com/in/mohd-yousuf-khan/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/M_yousuf/">LeetCode</a> ·
   <a href="https://codeforces.com/profile/khanyousuf6367">Codeforces</a>
 </p>
 
