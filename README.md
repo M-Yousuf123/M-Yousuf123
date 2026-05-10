@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-yousuf-khan/">LinkedIn</a> ·
   <a href="https://leetcode.com/u/M_yousuf/">LeetCode</a> ·
-  <a href="https://codeforces.com/profile/khanyousuf6367">Codeforces</a>
+  <a href="https://codeforces.com/profile/m_yousuf123">Codeforces</a>
 </p>
 
 ---
