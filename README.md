@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohd-yousuf-khan/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/M_yousuf/">LeetCode</a> ·
-  <a href="https://codeforces.com/profile/m_yousuf123">Codeforces</a>
+ <a href="https://codeforces.com/profile/m_yousuf123" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white&labelColor=1F8ACB&color=1F8ACB" alt="Codeforces" height="32"/>
+</a>&nbsp; <a href="https://leetcode.com/u/M_yousuf/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=FFA116&labelColor=111111&color=111111" alt="LeetCode" height="32"/> </a>
 </p>
 
 ---
@@ -27,23 +27,27 @@ Outside of work, I stay sharp through competitive programming and algorithmic pr
 
 ## Tech Stack
 
-**Languages**
+**Languages**  
 `Python` `C++` `JavaScript` `SQL` `Java` `C`
 
-**Frameworks & Libraries**
+**Frameworks & Libraries**  
 `React` `Flask` `Node.js` `Express.js` `Pandas` `NumPy` `Dash`
 
-**Cloud & DevOps**
+**Cloud & DevOps**  
 `AWS Lambda` `AWS SageMaker` `AWS RDS` `AWS S3` `AWS CDK` `Docker` `Git`
 
-**Databases**
+**Databases**  
 `MySQL` `MongoDB` `DynamoDB`
-
----
 
 ## Let's Connect
 
 I'm always open to discussing interesting problems, collaborations, or new opportunities.
 
-📧 khanyousuf5181@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/mohd-yousuf-khan-154379229/)
+<p align="left">
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohd-yousuf-khan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
